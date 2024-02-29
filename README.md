@@ -251,11 +251,14 @@ int main(int argc, char **argv)
 ```
 
 ## OUTPUT:
-![output](out.png)
+![img1](https://github.com/ragulmani936/PCA-EXP-1-SUM-ARRAY-GPU-AY-23-24/assets/94881918/5b8766a7-33a8-49a7-b711-fdb5f9de9786)
+
 #### block.x = 1023
-![output](1023.png)
+![img2](https://github.com/ragulmani936/PCA-EXP-1-SUM-ARRAY-GPU-AY-23-24/assets/94881918/ad6f411b-3ea6-4226-8c3c-e9ab62fdf32f)
+
 #### block.x = 256
-![output](265.png)
+![img3](https://github.com/ragulmani936/PCA-EXP-1-SUM-ARRAY-GPU-AY-23-24/assets/94881918/a88bd210-5596-4c76-8874-046278b916fa)
+
 
 
 ## RESULT:
